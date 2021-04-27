@@ -1,1 +1,1 @@
-# Lift4TodayCapstone
+# Lift4Today Capstone
